@@ -33,8 +33,8 @@ There are three files corresponding to separate analyses in the manuscript:
 11. *VisTypeD*: Dummy code of the VisType variable where 0 corresponds to the cone visualization and 1 corresponds to the ensemble visualization.
 
 #### Variables (columns) in EnsembleFollowup_LogisticData.csv
-1. *id*: Participant number
-2. *image*: Image number (could also be considered "trial")
-3. *Damage*: 1 indicates participant chose far oil rig will receive more damage, 0 indicates participant chose close oil rig to receive more damage
-4. *OnLineC*: Contrast code indicating
+1. *id*: Participant number.
+2. *image*: Image number (could also be considered "trial").
+3. *Damage*: 1 indicates participant chose far oil rig will receive more damage, 0 indicates participant chose close oil rig to receive more damage.
+4. *OnLineC*: Contrast code indicating whether the close or far oil rig was touching an ensemble line. .5 corresponds to far oil rig touching an ensemble track, -.5 corresponds to close oil rig touching an ensemble track.
 5. *LinesC*: Number of lines from the ensemble visualization overlapping with the oil rig. This variable was not included in manuscript analyses. .5 corresponds to 2 lines overlapping, while -.5 correponds to 1 line overlapping.
