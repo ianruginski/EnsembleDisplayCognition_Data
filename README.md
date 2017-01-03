@@ -38,3 +38,21 @@ There are three files corresponding to separate analyses in the manuscript:
 3. *Damage*: 1 indicates participant chose far oil rig will receive more damage, 0 indicates participant chose close oil rig to receive more damage.
 4. *OnLineC*: Contrast code indicating whether the close or far oil rig was touching an ensemble line. .5 corresponds to far oil rig touching an ensemble track, -.5 corresponds to close oil rig touching an ensemble track.
 5. *LinesC*: Number of lines from the ensemble visualization overlapping with the oil rig. This variable was not included in manuscript analyses. .5 corresponds to 2 lines overlapping, while -.5 correponds to 1 line overlapping.
+
+There are three supplementary files corresponding to follow-up question analysis in the manuscript:
+-  SizeData_questions.csv (analysis for size judgments, Experiment 1)
+-  IntensityData_questions.csv (analysis for intensity judgments, Experiment 1)
+-  EnsembleFollowup_questions.csv (analysis for Experiment 2)
+
+
+#### Variables (columns) in SizeData_questions.csv,  IntensityData_questions.csv, and EnsembleFollowup_questions.csv
+1. *id*: Participant number.
+2. *Strategy*: Verbal description of self-reported strategy used for task.
+3. *Forecasts*: "Do you have experience with hurricane forecasts?"" 1 indicates yes, 2 indicates no.
+4. *Threats*: "Have you lived or do you live in an area that experiences hurricane threats?" 1 indicates yes, 2 indicates no.
+5. *Red_Dot*: What did you think the Red Dot Represented? 1 indicates The position of the center/eye of the hurricane, 2 indicates A position within the hurricane, 3 indicates The outer edge of the hurricane, 4 indicates other
+6. *Red_Dot_TEXT*: If answered 4 for Red_Dot, this is what was filled in
+7. *Larger*: The display shows the hurricane getting large over time. 1 indicates yes, 2 indicates no.
+8. *Variable*:  The display indicates that the forecasters are less certain about the path of the hurricane as time passes. 1 indicates True, 2 indicates False.
+9. *Hit*: Areas on the map not covered by the visualization will not be hit by the hurricane. 1 indicates True, 2 indicates False.
+10. *VisType*: Visualization Type
