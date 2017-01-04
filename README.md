@@ -56,3 +56,5 @@ There are three supplementary files corresponding to follow-up question analysis
 8. *Variable*:  The display indicates that the forecasters are less certain about the path of the hurricane as time passes. 1 indicates True, 2 or 3 indicates False.
 9. *Hit*: Areas on the map not covered by the visualization will not be hit by the hurricane. 1 indicates True, 2 or 3 indicates False (reason for the 2/3 meaning the same thing is different qualtrics codings)
 10. *VisType*: Visualization Type
+11. *Age*: Age as numeric
+12. *Gender*: 1 is male, 2 is female
