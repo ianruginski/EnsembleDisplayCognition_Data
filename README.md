@@ -52,7 +52,7 @@ There are three supplementary files corresponding to follow-up question analysis
 4. *Threats*: "Have you lived or do you live in an area that experiences hurricane threats?" 1 indicates yes, 2 indicates no.
 5. *Red_Dot*: What did you think the Red Dot Represented? 1 indicates The position of the center/eye of the hurricane, 2 indicates A position within the hurricane, 3 indicates The outer edge of the hurricane, 4 indicates other
 6. *Red_Dot_TEXT*: If answered 4 for Red_Dot, this is what was filled in
-7. *Larger*: The display shows the hurricane getting large over time. 1 indicates yes, 2 indicates no.
-8. *Variable*:  The display indicates that the forecasters are less certain about the path of the hurricane as time passes. 1 indicates True, 2 indicates False.
-9. *Hit*: Areas on the map not covered by the visualization will not be hit by the hurricane. 1 indicates True, 2 indicates False.
+7. *Larger*: The display shows the hurricane getting large over time. 1 indicates yes, 2 or 3 indicates no.
+8. *Variable*:  The display indicates that the forecasters are less certain about the path of the hurricane as time passes. 1 indicates True, 2 or 3 indicates False.
+9. *Hit*: Areas on the map not covered by the visualization will not be hit by the hurricane. 1 indicates True, 2 or 3 indicates False (reason for the 2/3 meaning the same thing is different qualtrics codings)
 10. *VisType*: Visualization Type
